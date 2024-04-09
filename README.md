@@ -14,7 +14,7 @@ pipenv install
 pipenv run python assignment2.py --urls <file_name>
 
 It can be run as follows:
-![](https://github.com/VaishnaviReddy99/cis6930sp24-assignment2/blob/main/output.gif)
+
 
 
 
