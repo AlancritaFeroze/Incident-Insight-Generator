@@ -14,10 +14,7 @@ pipenv install
 pipenv run python assignment2.py --urls <file_name>
 
 It can be run as follows:
-
-
-
-
+https://github.com/AlancritaFeroze/cis6930sp24-assignment2/issues/1
 
 ## Functions
 #### assignment0\main.py \
